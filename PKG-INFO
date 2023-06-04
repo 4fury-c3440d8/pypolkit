@@ -5,6 +5,6 @@ Summary: Python bindings for polkit-1
 Home-page: http://svn.pardus.org.tr/uludag/trunk/python-polkit/
 Author: Bahadır Kandemir
 Author-email: bahadir@pardus.org.tr
-License: GNU GPL2
+License: GNU GPL3
 Description: Python bindings for polkit-1
 Platform: UNKNOWN
